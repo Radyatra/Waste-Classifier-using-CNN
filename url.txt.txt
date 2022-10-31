@@ -1,1 +1,0 @@
-Heroku App link: https://radyatra-sidharta-milestone2p2.herokuapp.com
