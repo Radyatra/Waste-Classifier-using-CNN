@@ -5,7 +5,7 @@ The categories of waste includes the following: Cardboard, Glass, Metal, Paper, 
 This notebook includes the Exploratory Data Analysis (EDA), Data Preprocessing, and Modelling of the dataset.
 Model used is CNN with sequential API, with some exploration done into the VGG-16 pretrained model as well.
 
-Dataset obtained from Kaggle.
+Dataset obtained from Kaggle. The raw data (image files) is not included in the repository due to large file size.
 Link: https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
 A model deployment is also provided through Heroku.
